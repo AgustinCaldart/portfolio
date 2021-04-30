@@ -15,4 +15,7 @@
   background-image: url(../img/dots.svg);
   display: grid;
   position: relative;
+  .content {
+    margin: 5rem 15rem;
+  }
 }
