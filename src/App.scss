@@ -1,14 +1,15 @@
 @import './styles/Layout.scss';
 @import './styles/NavBar.scss';
+@import './styles/Typography.scss';
 
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-body{
-    color: #a4acc4;
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-size: 1.2rem;
+body {
+  color: #a4acc4;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 1.2rem;
 }
