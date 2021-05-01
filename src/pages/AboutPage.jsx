@@ -2,6 +2,9 @@ import React from 'react';
 import Title from '../components/Title';
 import ImageSection from '../components/ImageSection';
 import SkillSection from '../components/SkillSection';
+import ServicesSection from '../components/ServicesSection';
+import design from '../img/design.svg';
+import datebase from '../img/datebase.png';
 
 function AboutPage() {
   return (
@@ -15,6 +18,30 @@ function AboutPage() {
         <SkillSection skill={'CSS'} progress={'60%'} width={'60%'} />
         <SkillSection skill={'React'} progress={'40%'} width={'40%'} />
         <SkillSection skill={'GitHub'} progress={'60%'} width={'60%'} />
+      </div>
+      <Title title={'Servicios'} span={'Servicios'} />
+      <div className='services-container'>
+        <ServicesSection
+          image={design}
+          title={'Web Design'}
+          text={
+            'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, provident?'
+          }
+        />
+        <ServicesSection
+          image={design}
+          title={'Web Design'}
+          text={
+            'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, provident?'
+          }
+        />
+        <ServicesSection
+          image={design}
+          title={'Web Design'}
+          text={
+            'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, provident?'
+          }
+        />
       </div>
     </div>
   );
