@@ -4,7 +4,7 @@ import ImageSection from '../components/ImageSection';
 import SkillSection from '../components/SkillSection';
 import ServicesSection from '../components/ServicesSection';
 import design from '../img/design.svg';
-import datebase from '../img/datebase.png';
+import datebase from '../img/database.svg';
 
 function AboutPage() {
   return (
@@ -29,7 +29,7 @@ function AboutPage() {
           }
         />
         <ServicesSection
-          image={design}
+          image={datebase}
           title={'Web Design'}
           text={
             'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, provident?'
