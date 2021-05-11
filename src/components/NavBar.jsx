@@ -27,6 +27,11 @@ function NavBar() {
             </NavLink>
           </li>
           <li className='nav-item'>
+            <NavLink to='/certificates' exact activeClassName='active'>
+              Certificados
+            </NavLink>
+          </li>
+          <li className='nav-item'>
             <NavLink to='/contact' exact activeClassName='active'>
               Contacto
             </NavLink>

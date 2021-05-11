@@ -5,6 +5,7 @@ import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage.jsx';
 import PortfolioPage from './pages/PortfolioPage';
 import ContactPage from './pages/ContactPage';
+import CertsPage from './pages/CertsPage';
 
 function App() {
   return (
@@ -23,6 +24,9 @@ function App() {
             </Route>
             <Route path='/portfolios' exact>
               <PortfolioPage />
+            </Route>
+            <Route path='/certificates' exact>
+              <CertsPage />
             </Route>
             <Route path='/contact' exact>
               <ContactPage />
