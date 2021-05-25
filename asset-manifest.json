@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ebf2c1c9.chunk.css",
+    "main.js": "/portfolio/static/js/main.10b6a1c7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.10b6a1c7.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
+    "static/js/2.bed120e3.chunk.js": "/portfolio/static/js/2.bed120e3.chunk.js",
+    "static/js/2.bed120e3.chunk.js.map": "/portfolio/static/js/2.bed120e3.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.ebf2c1c9.chunk.css.map": "/portfolio/static/css/main.ebf2c1c9.chunk.css.map",
+    "static/js/2.bed120e3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bed120e3.chunk.js.LICENSE.txt",
+    "static/media/about.b27db82f.png": "/portfolio/static/media/about.b27db82f.png",
+    "static/media/asin.e637dcfc.png": "/portfolio/static/media/asin.e637dcfc.png",
+    "static/media/bajs.fef76d32.png": "/portfolio/static/media/bajs.fef76d32.png",
+    "static/media/calcu.0be0c4e3.png": "/portfolio/static/media/calcu.0be0c4e3.png",
+    "static/media/database.e3d42450.svg": "/portfolio/static/media/database.e3d42450.svg",
+    "static/media/design.8ecb3043.svg": "/portfolio/static/media/design.8ecb3043.svg",
+    "static/media/App.scss": "/portfolio/static/media/dots.9978678b.svg",
+    "static/media/ecma.0d2472cd.png": "/portfolio/static/media/ecma.0d2472cd.png",
+    "static/media/emailme.a60657eb.svg": "/portfolio/static/media/emailme.a60657eb.svg",
+    "static/media/fjs.fb51006b.png": "/portfolio/static/media/fjs.fb51006b.png",
+    "static/media/fnode.9f39aef6.png": "/portfolio/static/media/fnode.9f39aef6.png",
+    "static/media/frontdevep.4503641d.png": "/portfolio/static/media/frontdevep.4503641d.png",
+    "static/media/location.5cd6776e.svg": "/portfolio/static/media/location.5cd6776e.svg",
+    "static/media/phone.ef86e22a.svg": "/portfolio/static/media/phone.ef86e22a.svg",
+    "static/media/prework.773c1e3a.png": "/portfolio/static/media/prework.773c1e3a.png",
+    "static/media/react.c87e7dda.png": "/portfolio/static/media/react.c87e7dda.png",
+    "static/media/redux.e31d005c.png": "/portfolio/static/media/redux.e31d005c.png",
+    "static/media/scope.931871a4.png": "/portfolio/static/media/scope.931871a4.png",
+    "static/media/todo.8f0715bb.png": "/portfolio/static/media/todo.8f0715bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76232b81.js",
+    "static/js/2.bed120e3.chunk.js",
+    "static/css/main.ebf2c1c9.chunk.css",
+    "static/js/main.10b6a1c7.chunk.js"
+  ]
+}
