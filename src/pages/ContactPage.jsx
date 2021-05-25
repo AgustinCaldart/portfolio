@@ -31,7 +31,7 @@ function ContactPage() {
           />
           <ContactItem
             icon={email}
-            text1={'caldart123@gmail'}
+            text1={'caldart123@gmail.com'}
             title={'Email'}
           />
           <ContactItem
