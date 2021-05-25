@@ -39,7 +39,7 @@ function NavBar() {
         </ul>
 
         <footer className='footer'>
-          <p>@2021 Lorem Ipsum</p>
+          <p>2021 Argentina</p>
         </footer>
       </nav>
     </div>

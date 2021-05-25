@@ -15,8 +15,8 @@ const portfolios = [
   {
     id: 2,
     category: 'JavaScript',
-    link1: 'www.youtube.com',
-    link2: 'www.github.com',
+    link1: 'https://github.com/AgustinCaldart/calculate',
+    link2: 'https://agustincaldart.github.io/calculate/',
     icon1: 'G',
     icon2: 'P',
     image: port2,
