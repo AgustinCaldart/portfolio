@@ -11,22 +11,32 @@ function HomePage() {
       <header className='hero'>
         <h1 className='hero-text'>
           Hola, Yo soy
-          <span> Agustin Caldart</span>
+          <span> Agustín Caldart</span>
         </h1>
         <p className='h-sub-text'>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam
-          laborum minima earum unde in aut impedit similique consectetur
-          doloribus, quod nobis quisquam nostrum, beatae quidem dignissimos. Qui
-          iste et ratione!
+          Tengo 26 años y actualmente me encuentro haciendo proyectos personales
+          mayormente de <span>Web Developer</span>
         </p>
         <div className='icons'>
-          <Link className='icon-holder' to>
+          {/* <Link className='icon-holder' to>
             <FontAwesomeIcon icon={faFacebook} className='icon fb' />
-          </Link>
-          <Link className='icon-holder' to>
+          </Link> */}
+          <Link
+            className='icon-holder'
+            to={{
+              pathname: 'https://github.com/AgustinCaldart',
+            }}
+            target='_blank'
+          >
             <FontAwesomeIcon icon={faGithub} className='icon gh' />
           </Link>
-          <Link className='icon-holder' to>
+          <Link
+            className='icon-holder'
+            to={{
+              pathname: 'https://www.linkedin.com/in/acaldart/',
+            }}
+            target='_blank'
+          >
             <FontAwesomeIcon icon={faLinkedin} className='icon lk' />
           </Link>
         </div>

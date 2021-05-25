@@ -25,23 +25,23 @@ function AboutPage() {
           image={design}
           title={'Web Design'}
           text={
-            'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, provident?'
+            'Desarrollo frontend de páginas web mayormente utilizando React + Sass'
           }
         />
         <ServicesSection
           image={datebase}
-          title={'Web Design'}
+          title={'DateBase'}
           text={
-            'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, provident?'
+            'Manejo de grandes estructuras de datos con conomientos en funciones y vistas'
           }
         />
-        <ServicesSection
+        {/*  <ServicesSection
           image={design}
           title={'Web Design'}
           text={
             'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, provident?'
           }
-        />
+        /> */}
       </div>
     </div>
   );

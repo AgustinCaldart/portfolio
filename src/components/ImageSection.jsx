@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import about from '../img/about.png';
 
 function ImageSection() {
@@ -12,8 +13,8 @@ function ImageSection() {
           Yo soy<span> Devloper</span>
         </h4>
         <p className='about-text'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Necessitatibus ipsa minus dignissimos cupiditate magni? Illo est
+          Actualmente estoy cumpliando labores de SQL DateBase en la empresa
+          AARI para un proyecto de la Municipalidad de Córdoba
         </p>
         <div className='about-details'>
           <div className='left-section'>
@@ -24,14 +25,22 @@ function ImageSection() {
             <p>Direccion</p>
           </div>
           <div className='right-section'>
-            <p>: Agustin Caldart</p>
+            <p>: Agustín Caldart</p>
             <p>: 26</p>
             <p>: Argentina</p>
             <p>: Español, Ingles(basico)</p>
             <p>: Bv Chacabuco 656 1a</p>
           </div>
         </div>
-        <button className='btn'>Descargar Cv</button>
+        <Link
+          to={{
+            pathname:
+              'https://example.zendesk.com/hc/en-us/articles/123456789-Privacy-Policies',
+          }}
+          target='_blank'
+        >
+          <button className='btn'>Descargar Cv</button>
+        </Link>
       </div>
     </div>
   );
