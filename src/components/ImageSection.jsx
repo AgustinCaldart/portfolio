@@ -22,7 +22,7 @@ function ImageSection() {
             <p>Edad</p>
             <p>Nacionalidad</p>
             <p>Lenguajes</p>
-            <p>Direccion</p>
+            <p>Dirección</p>
           </div>
           <div className='right-section'>
             <p>: Agustín Caldart</p>

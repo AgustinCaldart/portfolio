@@ -30,7 +30,7 @@ function AboutPage() {
         />
         <ServicesSection
           image={datebase}
-          title={'DateBase'}
+          title={'Data Base'}
           text={
             'Manejo de grandes estructuras de datos con conomientos en funciones y vistas'
           }

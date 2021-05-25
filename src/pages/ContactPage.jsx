@@ -24,7 +24,11 @@ function ContactPage() {
           ></iframe>
         </div>
         <div className='contact-sect'>
-          <ContactItem icon={phone} text1={'+54 2944 353838'} title={'Phone'} />
+          <ContactItem
+            icon={phone}
+            text1={'+54 2944 353838'}
+            title={'Télefono'}
+          />
           <ContactItem
             icon={email}
             text1={'caldart123@gmail'}
