@@ -35,7 +35,7 @@ function ImageSection() {
         <Link
           to={{
             pathname:
-              'https://example.zendesk.com/hc/en-us/articles/123456789-Privacy-Policies',
+              'https://drive.google.com/file/d/1gxd1ju_fYy78m-CSG_FphNR8Sil1V-L9/view?usp=sharing',
           }}
           target='_blank'
         >
