@@ -17,22 +17,26 @@ function NavBar() {
             </NavLink>
           </li>
           <li className='nav-item'>
-            <NavLink to='/about' exact activeClassName='active'>
+            <NavLink to='/portfolio/about' exact activeClassName='active'>
               Sobre Mí
             </NavLink>
           </li>
           <li className='nav-item'>
-            <NavLink to='/portfolios' exact activeClassName='active'>
+            <NavLink to='/portfolio/portfolios' exact activeClassName='active'>
               Portfolios
             </NavLink>
           </li>
           <li className='nav-item'>
-            <NavLink to='/certificates' exact activeClassName='active'>
+            <NavLink
+              to='/portfolio/certificates'
+              exact
+              activeClassName='active'
+            >
               Certificados
             </NavLink>
           </li>
           <li className='nav-item'>
-            <NavLink to='/contact' exact activeClassName='active'>
+            <NavLink to='/portfolio/contact' exact activeClassName='active'>
               Contacto
             </NavLink>
           </li>

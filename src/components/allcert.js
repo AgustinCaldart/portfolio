@@ -8,6 +8,8 @@ import cert7 from '../img/certs/prework.png';
 import cert8 from '../img/certs/scope.png';
 import cert9 from '../img/certs/react.png';
 import cert10 from '../img/certs/redux.png';
+import cert11 from '../img/certs/fundamento bd.png';
+import cert12 from '../img/certs/fundamentoaws.png';
 
 const certs = [
   {
@@ -53,12 +55,22 @@ const certs = [
   {
     id: 9,
     image: cert9,
-    title: 'Práctuco React',
+    title: 'Práctico React',
   },
   {
     id: 10,
     image: cert10,
     title: 'React Router y Redux',
+  },
+  {
+    id: 11,
+    image: cert11,
+    title: 'Fundamentos Base de datos',
+  },
+  {
+    id: 12,
+    image: cert12,
+    title: 'Fundamentos AWS',
   },
 ];
 
