@@ -76,12 +76,12 @@ const certs = [
   },
   {
     id: 13,
-    image: cert12,
+    image: cert13,
     title: 'Cloud Computing AWS',
   },
   {
     id: 14,
-    image: cert12,
+    image: cert14,
     title: 'Storage AWS',
   },
 ];
