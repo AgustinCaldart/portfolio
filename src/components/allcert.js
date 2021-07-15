@@ -10,6 +10,8 @@ import cert9 from '../img/certs/react.png';
 import cert10 from '../img/certs/redux.png';
 import cert11 from '../img/certs/fundamento bd.png';
 import cert12 from '../img/certs/fundamentoaws.png';
+import cert13 from '../img/certs/computing.png';
+import cert14 from '../img/certs/storage.png';
 
 const certs = [
   {
@@ -71,6 +73,16 @@ const certs = [
     id: 12,
     image: cert12,
     title: 'Fundamentos AWS',
+  },
+  {
+    id: 13,
+    image: cert12,
+    title: 'Cloud Computing AWS',
+  },
+  {
+    id: 14,
+    image: cert12,
+    title: 'Storage AWS',
   },
 ];
 
