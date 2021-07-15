@@ -13,7 +13,7 @@ function AboutPage() {
       <ImageSection />
       <Title title={'Habilidades'} span={'Habilidades'} />
       <div className='skils-container'>
-        <SkillSection skill={'Javascript'} progress={'50%'} width={'50%'} />
+        <SkillSection skill={'Javascript'} progress={'65%'} width={'65%'} />
         <SkillSection skill={'React'} progress={'60%'} width={'60%'} />
         <SkillSection skill={'Hook'} progress={'50%'} width={'50%'} />
         <SkillSection skill={'AWS'} progress={'60%'} width={'60%'} />
@@ -21,7 +21,7 @@ function AboutPage() {
         <SkillSection skill={'Node JS'} progress={'40%'} width={'40%'} />
         <SkillSection skill={'.NET'} progress={'40%'} width={'40%'} />
         <SkillSection skill={'SASS'} progress={'60%'} width={'60%'} />
-        <SkillSection skill={'Redux'} progress={'40%'} width={'80%'} />
+        <SkillSection skill={'Redux'} progress={'40%'} width={'40%'} />
         <SkillSection skill={'CSS'} progress={'60%'} width={'60%'} />
         <SkillSection skill={'GitHub'} progress={'60%'} width={'60%'} />
       </div>
