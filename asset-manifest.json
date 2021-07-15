@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.66e051f5.chunk.css",
-    "main.js": "/portfolio/static/js/main.3989271b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3989271b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.8f36c68e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8f36c68e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
     "static/js/2.af56a3e9.chunk.js": "/portfolio/static/js/2.af56a3e9.chunk.js",
@@ -14,6 +14,7 @@
     "static/media/asin.e637dcfc.png": "/portfolio/static/media/asin.e637dcfc.png",
     "static/media/bajs.fef76d32.png": "/portfolio/static/media/bajs.fef76d32.png",
     "static/media/calcu.0be0c4e3.png": "/portfolio/static/media/calcu.0be0c4e3.png",
+    "static/media/computing.c6340062.png": "/portfolio/static/media/computing.c6340062.png",
     "static/media/database.e3d42450.svg": "/portfolio/static/media/database.e3d42450.svg",
     "static/media/design.8ecb3043.svg": "/portfolio/static/media/design.8ecb3043.svg",
     "static/media/App.scss": "/portfolio/static/media/dots.9978678b.svg",
@@ -30,12 +31,13 @@
     "static/media/react.c87e7dda.png": "/portfolio/static/media/react.c87e7dda.png",
     "static/media/redux.e31d005c.png": "/portfolio/static/media/redux.e31d005c.png",
     "static/media/scope.931871a4.png": "/portfolio/static/media/scope.931871a4.png",
+    "static/media/storage.98835c03.png": "/portfolio/static/media/storage.98835c03.png",
     "static/media/todo.8f0715bb.png": "/portfolio/static/media/todo.8f0715bb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
     "static/js/2.af56a3e9.chunk.js",
     "static/css/main.66e051f5.chunk.css",
-    "static/js/main.3989271b.chunk.js"
+    "static/js/main.8f36c68e.chunk.js"
   ]
 }
