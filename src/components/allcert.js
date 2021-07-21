@@ -13,7 +13,7 @@ import cert12 from '../img/certs/fundamentoaws.png';
 import cert13 from '../img/certs/computing.png';
 import cert14 from '../img/certs/storage.png';
 import cert15 from '../img/certs/npm.png';
-import cert16 from '../img/certs/hook.png';
+import cert16 from '../img/certs/Hook.png';
 
 const certs = [
   {
