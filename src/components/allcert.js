@@ -12,6 +12,8 @@ import cert11 from '../img/certs/fundamento bd.png';
 import cert12 from '../img/certs/fundamentoaws.png';
 import cert13 from '../img/certs/computing.png';
 import cert14 from '../img/certs/storage.png';
+import cert15 from '../img/certs/npm.png';
+import cert16 from '../img/certs/hook.png';
 
 const certs = [
   {
@@ -83,6 +85,16 @@ const certs = [
     id: 14,
     image: cert14,
     title: 'Storage AWS',
+  },
+  {
+    id: 15,
+    image: cert15,
+    title: 'Gestión de dependencias NPM',
+  },
+  {
+    id: 16,
+    image: cert16,
+    title: 'React Hooks',
   },
 ];
 
