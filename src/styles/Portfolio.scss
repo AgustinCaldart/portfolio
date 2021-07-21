@@ -3,10 +3,10 @@
 
 .porfolios {
   width: 100%;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  grid-gap: 1.5rem;
+  grid-row-gap: 1.5em;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
-  row-gap: 2rem;
-  column-gap: 1rem;
 
   .portfolio {
     .image-data {
@@ -18,11 +18,10 @@
         left: 15px;
         height: calc(100% - 30px);
         width: calc(100% - 30px);
-        background-color: rgba(255, 255, 255, 0.885);
+        background-color: rgba(255, 255, 255, 0.925);
         transform-origin: center;
         transform: scale(0);
         transition: all 0.4s ease-in-out;
-        opacity: 0.9;
       }
       &:hover::before {
         transform: scale(1);
@@ -32,6 +31,7 @@
         height: 30vh;
         object-fit: cover;
       }
+
       .hover-items {
         list-style: none;
         position: absolute;
@@ -63,6 +63,7 @@
         }
       }
     }
+
     h5 {
       font-size: 1.7rem;
       font-weight: 400;
@@ -77,6 +78,7 @@
 }
 
 .btn-port {
+  width: 100%;
   padding: 1rem 2rem;
   background-color: #0381ff5b;
   border: none;
@@ -105,10 +107,4 @@
   grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
   row-gap: 2rem;
   column-gap: 1rem;
-  /*  @media screen and (max-width: 1270px) {
-    margin: 2rem 5rem;
-  }
-  @media screen and (max-width: 1270px) {
-    margin: 2rem 2rem;
-  } */
 }
