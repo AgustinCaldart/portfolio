@@ -21,7 +21,10 @@ function HomePage() {
         <meta property='og:title' content='Portfolio' />
         <meta property='og:description' content='Portfolio' />
         <meta property='og:image' content={img} />
-        <meta property='og:url' content='https://ecomerce-2cf4b.web.app/' />
+        <meta
+          property='og:url'
+          content='https://agustincaldart.github.io/portfolio/'
+        />
         <meta property='og:site_name' content='Portfolio' />
         <meta property='og:locale' content='es_ES' />
         <meta property='og:type' content='article' />
